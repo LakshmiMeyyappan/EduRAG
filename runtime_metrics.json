@@ -1,0 +1,296 @@
+{
+  "uploads": [
+    {
+      "filename": "MACHINE LEARNING.pdf",
+      "chunks": 1050,
+      "uploaded_at": "2026-04-20T07:07:05.049557Z"
+    },
+    {
+      "filename": "PYTHON PROGRAMMING NOTES.pdf",
+      "chunks": 587,
+      "uploaded_at": "2026-04-20T07:43:35.336817Z"
+    },
+    {
+      "filename": "PYTHON PROGRAMMING NOTES.pdf",
+      "chunks": 587,
+      "uploaded_at": "2026-04-21T08:41:15.925855Z"
+    },
+    {
+      "filename": "MACHINE LEARNING.pdf",
+      "chunks": 1050,
+      "uploaded_at": "2026-04-21T10:25:28.125371Z"
+    }
+  ],
+  "quiz_attempts": [
+    {
+      "topic": "deep learning",
+      "session_id": "session_1776668208985",
+      "score": 6,
+      "total": 6,
+      "percentage": 100.0,
+      "section_scores": [
+        {
+          "section": "Concept Check",
+          "score": 2,
+          "total": 2,
+          "percentage": 100
+        },
+        {
+          "section": "Applied Understanding",
+          "score": 2,
+          "total": 2,
+          "percentage": 100
+        },
+        {
+          "section": "Challenge Round",
+          "score": 2,
+          "total": 2,
+          "percentage": 100
+        }
+      ],
+      "submitted_at": "2026-04-20T07:31:55.600757Z"
+    },
+    {
+      "topic": "clustering",
+      "session_id": "session_1776668208985",
+      "score": 4,
+      "total": 6,
+      "percentage": 66.67,
+      "section_scores": [
+        {
+          "section": "Concept Check",
+          "score": 2,
+          "total": 2,
+          "percentage": 100
+        },
+        {
+          "section": "Applied Understanding",
+          "score": 2,
+          "total": 2,
+          "percentage": 100
+        },
+        {
+          "section": "Challenge Round",
+          "score": 0,
+          "total": 2,
+          "percentage": 0
+        }
+      ],
+      "submitted_at": "2026-04-21T10:27:09.085042Z"
+    },
+    {
+      "topic": "clustering",
+      "session_id": "session_1776668208985",
+      "score": 2,
+      "total": 6,
+      "percentage": 33.33,
+      "section_scores": [
+        {
+          "section": "Concept Check",
+          "score": 2,
+          "total": 2,
+          "percentage": 100
+        },
+        {
+          "section": "Applied Understanding",
+          "score": 0,
+          "total": 2,
+          "percentage": 0
+        },
+        {
+          "section": "Challenge Round",
+          "score": 0,
+          "total": 2,
+          "percentage": 0
+        }
+      ],
+      "submitted_at": "2026-04-21T11:35:22.026596Z"
+    }
+  ],
+  "chat_interactions": [
+    {
+      "session_id": "session_1776668208985",
+      "question": "transformers",
+      "answer_preview": "Transformers, such as BERT (Bidirectional Encoder Representations from Transformers), have achieved state-of-the-art results in tasks like machine translation, sentiment analysis, ",
+      "confidence": 98.95,
+      "evaluation": {
+        "framework": "ragas",
+        "available": false,
+        "score": 0.7826,
+        "metrics": {
+          "grounded_overlap": 0.7826
+        },
+        "note": "RAGAS fallback used: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+      },
+      "asked_at": "2026-04-20T07:26:45.611861Z"
+    },
+    {
+      "session_id": "session_1776668208985",
+      "question": "transformers",
+      "answer_preview": "Transformers, such as BERT (Bidirectional Encoder Representations from Transformers), have achieved state-of-the-art results in tasks like machine translation, sentiment analysis, ",
+      "confidence": 98.95,
+      "evaluation": {
+        "framework": "ragas",
+        "available": false,
+        "score": 0.7826,
+        "metrics": {
+          "grounded_overlap": 0.7826
+        },
+        "note": "RAGAS fallback used: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+      },
+      "asked_at": "2026-04-20T07:28:28.587679Z"
+    },
+    {
+      "session_id": "session_1776668208985",
+      "question": "transformers",
+      "answer_preview": "Transformers, such as BERT (Bidirectional Encoder Representations from Transformers), have achieved state-of-the-art results in NLP tasks like machine translation, sentiment analys",
+      "confidence": 98.95,
+      "evaluation": {
+        "framework": "ragas",
+        "available": false,
+        "score": 0.7917,
+        "metrics": {
+          "grounded_overlap": 0.7917
+        },
+        "note": "RAGAS fallback used: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+      },
+      "asked_at": "2026-04-20T07:50:18.247512Z"
+    },
+    {
+      "session_id": "session_1776668208985",
+      "question": "define clustering",
+      "effective_question": "define clustering",
+      "answer_preview": "Clustering is a method of grouping objects into clusters such that objects with the most similarities remain in a group and have less or no similarities with the objects of another",
+      "confidence": 100.0,
+      "evaluation": {
+        "framework": "ragas",
+        "available": false,
+        "score": 0.88,
+        "metrics": {
+          "grounded_overlap": 0.88
+        },
+        "note": "RAGAS fallback used: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+      },
+      "asked_at": "2026-04-20T08:08:13.183834Z"
+    },
+    {
+      "session_id": "session_1776668208985",
+      "question": "what is list",
+      "effective_question": "what is list",
+      "answer_preview": "A list is a collection which is ordered and changeable, and allows duplicate members. It is a general-purpose, most widely used data structure.",
+      "confidence": 100.0,
+      "evaluation": {
+        "framework": "ragas",
+        "available": false,
+        "score": 0.8333,
+        "metrics": {
+          "grounded_overlap": 0.8333
+        },
+        "note": "RAGAS fallback used: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+      },
+      "asked_at": "2026-04-20T08:09:54.777258Z"
+    },
+    {
+      "session_id": "session_1776668208985",
+      "question": "what is supervised learning",
+      "effective_question": "what is supervised learning",
+      "answer_preview": "Supervised learning is a process where an algorithm learns from a training dataset under the guidance of a \"teacher\", who knows the correct return (y0, y1, y2). In other words, the",
+      "confidence": 100.0,
+      "evaluation": {
+        "framework": "ragas",
+        "available": false,
+        "score": 0.5152,
+        "metrics": {
+          "grounded_overlap": 0.5152
+        },
+        "note": "RAGAS fallback used: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+      },
+      "asked_at": "2026-04-20T08:10:29.704915Z"
+    },
+    {
+      "session_id": "session_1776668208985",
+      "question": "what is the use of it",
+      "effective_question": "what is the use of it",
+      "answer_preview": "It is mainly used for prediction, forecasting, time series modeling, and determining the causal-effect relationship between variables.",
+      "confidence": 100.0,
+      "evaluation": {
+        "framework": "ragas",
+        "available": false,
+        "score": 0.8824,
+        "metrics": {
+          "grounded_overlap": 0.8824
+        },
+        "note": "RAGAS fallback used: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+      },
+      "asked_at": "2026-04-20T08:10:40.268128Z"
+    },
+    {
+      "session_id": "session_1776668208985",
+      "question": "clustering",
+      "effective_question": "clustering",
+      "answer_preview": "Clustering is a method of grouping objects into clusters such that objects with the most similarities remain in a group and have less or no similarities with the objects of another",
+      "confidence": 100.0,
+      "evaluation": {
+        "framework": "ragas",
+        "available": false,
+        "score": 0.8,
+        "metrics": {
+          "grounded_overlap": 0.8
+        },
+        "note": "RAGAS fallback used: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+      },
+      "asked_at": "2026-04-21T08:13:45.919543Z"
+    },
+    {
+      "session_id": "session_1776668208985",
+      "question": "what is machine learning",
+      "effective_question": "what is machine learning",
+      "answer_preview": "Machine learning is programming computers to optimize a performance criterion using example data or past experience. It involves having a model defined up to some parameters, and l",
+      "confidence": 100.0,
+      "evaluation": {
+        "framework": "ragas",
+        "available": false,
+        "score": 0.875,
+        "metrics": {
+          "grounded_overlap": 0.875
+        },
+        "note": "RAGAS fallback used: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+      },
+      "asked_at": "2026-04-21T09:37:08.505919Z"
+    },
+    {
+      "session_id": "session_1776668208985",
+      "question": "what is machine learning",
+      "effective_question": "what is machine learning",
+      "answer_preview": "Machine learning is programming computers to optimize a performance criterion using example data or past experience. It involves having a model defined up to some parameters, and l",
+      "confidence": 100.0,
+      "evaluation": {
+        "framework": "ragas",
+        "available": false,
+        "score": 0.875,
+        "metrics": {
+          "grounded_overlap": 0.875
+        },
+        "note": "RAGAS fallback used: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+      },
+      "asked_at": "2026-04-21T10:25:55.173075Z"
+    },
+    {
+      "session_id": "session_1776668208985",
+      "question": "what is machine learning",
+      "effective_question": "what is machine learning",
+      "answer_preview": "Machine learning is programming computers to optimize a performance criterion using example data or past experience. It involves having a model defined up to some parameters, and l",
+      "confidence": 100.0,
+      "evaluation": {
+        "framework": "ragas",
+        "available": false,
+        "score": 0.875,
+        "metrics": {
+          "grounded_overlap": 0.875
+        },
+        "note": "RAGAS fallback used: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+      },
+      "asked_at": "2026-04-21T11:34:52.072845Z"
+    }
+  ]
+}
